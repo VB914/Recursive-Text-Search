@@ -1,0 +1,5 @@
+danger
+error
+lost
+not found
+404
